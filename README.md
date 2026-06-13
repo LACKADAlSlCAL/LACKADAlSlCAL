@@ -9,3 +9,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/cupcakes-2%2C534-red?style=flat&label=cupcakes&labelColor=red&color=orange">
 
 </p>
+
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/customers-1%2C823-red?style=flat&label=customers&labelColor=red&color=orange">
+
+</p>
